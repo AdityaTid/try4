@@ -1,0 +1,19 @@
+body{
+    background-color: #403F3F;
+}
+div table {
+    width: 25%;
+    height: 25%;
+  }
+  th{
+      font-size: 150%;
+      font-style: italic;
+      font-family:Papyrus,fantasy;
+      color: #F9F9F9;
+  }
+  p{
+      font-size:100%;
+      font-family:'Lucida Handwriting',cursive;
+      color: #FFABE5;
+  }
+  
